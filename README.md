@@ -2,7 +2,7 @@
 창의공학 종합과제 팀프로젝트 9팀</br>
 박채연, 백지은, 박성우</br>
 ### 유튜브 링크
-- y
+- https://youtu.be/ZXAwjTH6Di4?feature=shared
 
 ## 종합 프로젝트 포스터(파일 있음)
 ![image](https://github.com/qcd126/FINAL_CE/assets/128008018/7e4d107b-c538-44bb-a932-7b167bded79c)
